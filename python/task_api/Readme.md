@@ -1,29 +1,39 @@
-# Task Management REST API
+# ⚡ Task Management REST API
 
-A simple REST API built with Python and Flask for managing tasks.
+A lightweight REST API built with **Python and Flask** for managing tasks through standard HTTP methods.
 
-## Features
+This project was created as part of my **100 Days of Building in Public** challenge to practice backend development, REST API design, request handling, and JSON-based communication.
 
-- Get all tasks
-- Get a task by ID
-- Create a new task
-- Delete a task
-- JSON API responses
-- Basic error handling
+---
 
-## Tech Stack
+## 🚀 Features
 
-- Python
-- Flask
-- REST API
-- JSON
+- 📋 Get all tasks
+- 🔎 Get a task by ID
+- ➕ Create a new task
+- 🗑️ Delete a task
+- 📦 JSON request and response handling
+- ⚠️ Basic error handling
+- 🌐 RESTful API endpoints
+- 🐍 Simple and beginner-friendly Flask structure
 
-## Run Locally
+---
 
-```bash
-pip install flask
-python app.py
+## 🛠️ Tech Stack
 
-API:
+| Technology | Purpose |
+|---|---|
+| 🐍 Python | Programming language |
+| ⚡ Flask | Web framework |
+| 🌐 REST API | Backend communication |
+| 📦 JSON | Data exchange format |
 
-http://127.0.0.1:5000/api/tasks
+---
+
+## 📂 Project Structure
+
+```text
+task_api/
+│
+├── app.py
+└── Readme.md
