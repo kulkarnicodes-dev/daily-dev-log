@@ -93,15 +93,15 @@ python/password_strength_checker.py
 
 ## 📊 Development Progress
 
-| Day | Project                     | Technology   |    Status   |
-| :-: | --------------------------- | ------------ | :---------: |
-| 01  | Password Strength Checker   | Python       | ✅ Completed |
-| 02  | Email Validator             | Python       | ✅ Completed |
+| Day | Project                     | Technology     |    Status   |
+| :-: | --------------------------- | -------------- | :---------: |
+| 01  | Password Strength Checker   | Python         | ✅ Completed |
+| 02  | Email Validator             | Python         | ✅ Completed |
 | 03  | Task Management REST API    | Python + Flask | ✅ Completed |
-| 04  | Coming Soon                 | —            | ⏳ Upcoming |
-| 05  | Coming Soon                 | —            | ⏳ Upcoming |
+| 04  | Expense Tracker REST API    | Python + Flask | ✅ Completed |
+| 05  | Coming Soon                 | —              | ⏳ Upcoming |
 
-> **3 / 100 days completed 🚀 | 97 days remaining**
+> **4 / 100 days completed 🚀 | 96 days remaining**
 
 This section will be updated as new projects are completed.
 
