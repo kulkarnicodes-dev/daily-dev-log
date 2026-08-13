@@ -99,9 +99,10 @@ python/password_strength_checker.py
 | 02  | Email Validator             | Python         | ✅ Completed |
 | 03  | Task Management REST API    | Python + Flask | ✅ Completed |
 | 04  | Expense Tracker REST API    | Python + Flask | ✅ Completed |
-| 05  | Coming Soon                 | —              | ⏳ Upcoming |
+| 05  | Contact Management REST API | Python + Flask | ✅ Completed |
+| 06  | Coming Soon                 | —              | ⏳ Upcoming |
 
-> **4 / 100 days completed 🚀 | 96 days remaining**
+> **5 / 100 days completed 🚀 | 95 days remaining**
 
 This section will be updated as new projects are completed.
 
