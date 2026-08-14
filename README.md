@@ -93,19 +93,22 @@ python/password_strength_checker.py
 
 ## 📊 Development Progress
 
-| Day | Project                     | Technology     |    Status   |
-| :-: | --------------------------- | -------------- | :---------: |
-| 01  | Password Strength Checker   | Python         | ✅ Completed |
-| 02  | Email Validator             | Python         | ✅ Completed |
-| 03  | Task Management REST API    | Python + Flask | ✅ Completed |
-| 04  | Expense Tracker REST API    | Python + Flask | ✅ Completed |
-| 05  | Contact Management REST API | Python + Flask | ✅ Completed |
-| 06  | Coming Soon                 | —              | ⏳ Upcoming |
+| Day | Project                       | Technology                    |    Status   |
+| :-: | ----------------------------- | ----------------------------- | :---------: |
+| 01  | Password Strength Checker     | Python                        | ✅ Completed |
+| 02  | Email Validator               | Python                        | ✅ Completed |
+| 03  | Task Management REST API      | Python + Flask                | ✅ Completed |
+| 04  | Expense Tracker REST API      | Python + Flask                | ✅ Completed |
+| 05  | Contact Management REST API   | Python + Flask                | ✅ Completed |
+| 06  | Expense Tracker SQLite API    | Python + Flask + SQLite       | ✅ Completed |
+| 07  | User Authentication REST API  | Python + Flask + SQLite       | ✅ Completed |
+| 08  | JWT Authentication REST API   | Python + Flask + SQLite + JWT | ✅ Completed |
+| 09  | Coming Soon                   | —                             | ⏳ Upcoming |
+| 10  | Coming Soon                   | —                             | ⏳ Upcoming |
 
-> **5 / 100 days completed 🚀 | 95 days remaining**
+> **8 / 100 days completed 🚀 | 92 days remaining**
 
 This section will be updated as new projects are completed.
-
 ---
 
 ## 🛠️ Technology Areas
